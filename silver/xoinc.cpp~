@@ -1,0 +1,22 @@
+#include <iostream>
+
+#define MAXN 2005
+
+using namespace std;
+
+int N;
+int coins[MAXN], psum[MAXN];
+int dp[MAXN][MAXN];
+int main() {
+  cin >> N;
+  for(int i = 0; i < N; i++) {
+    cin >> coins[N-i+1];
+  }
+  for(int i = 0; i < N; i++) {
+    psum[i] = i > 0 ? psum[i-1]+coins[i] : coins[i];
+  }
+  for(int i = 0; i < N; i++)
+    for(int j = 0; j < N; j++) {
+      
+    }
+}
