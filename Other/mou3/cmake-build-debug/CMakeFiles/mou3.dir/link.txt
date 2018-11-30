@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mou3.dir/mou.cpp.o  -o mou3 

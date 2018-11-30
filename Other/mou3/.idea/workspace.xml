@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mou3" targetName="mou3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd290303-2467-4ecc-bb6a-81be9edafbbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mou/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mou/mou.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mou/mou.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mou2/mou2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mou2/mou2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Progress/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/Other/mou.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/Other/mou2.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/USACO.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/USACO.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/feb08/hotel/hotel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/feb08/hotel/hotel.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/jan13/seating/seating.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/jan13/seating/seating.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/mar07/lineup2/lineup2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/mar07/lineup2/lineup2.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mou.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mou.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mou3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mou3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mou3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mou3" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gold/jan13/seating" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mou3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mou3" TARGET_NAME="mou3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mou3" RUN_TARGET_NAME="mou3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd290303-2467-4ecc-bb6a-81be9edafbbe" name="Default Changelist" comment="" />
+      <created>1543540532246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543540532246</updated>
+      <workItem from="1543540533947" duration="559000" />
+      <workItem from="1543549670565" duration="2682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32937366" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mou.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
