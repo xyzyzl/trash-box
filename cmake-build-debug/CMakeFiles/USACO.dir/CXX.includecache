@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/xyzyzl/Documents/USACO/Other/mou.cpp
-iostream
--
-vector
+/home/xyzyzl/Documents/USACO/Other/mou/mou.cpp
+bits/stdc++.h
 -
 

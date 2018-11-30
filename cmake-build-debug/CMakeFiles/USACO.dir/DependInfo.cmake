@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xyzyzl/Documents/USACO/Other/mou.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/Other/mou.cpp.o"
-  "/home/xyzyzl/Documents/USACO/Other/mou2.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/Other/mou2.cpp.o"
-  "/home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o"
-  "/home/xyzyzl/Documents/USACO/gold/feb08/hotel.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o"
-  "/home/xyzyzl/Documents/USACO/gold/jan13/seating.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o"
-  "/home/xyzyzl/Documents/USACO/silver/nov09/xoinc.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o"
+  "/home/xyzyzl/Documents/USACO/Other/mou/mou.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/Other/mou/mou.cpp.o"
+  "/home/xyzyzl/Documents/USACO/Other/mou2/mou2.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o"
+  "/home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn/mowlawn.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o"
+  "/home/xyzyzl/Documents/USACO/gold/feb08/hotel/hotel.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o"
+  "/home/xyzyzl/Documents/USACO/gold/jan13/seating/seating.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o"
+  "/home/xyzyzl/Documents/USACO/silver/nov09/xoinc/xoinc.cpp" "/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

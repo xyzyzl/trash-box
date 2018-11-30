@@ -123,167 +123,167 @@ USACO/fast:
 	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/build
 .PHONY : USACO/fast
 
-Other/mou.o: Other/mou.cpp.o
+Other/mou/mou.o: Other/mou/mou.cpp.o
 
-.PHONY : Other/mou.o
-
-# target to build an object file
-Other/mou.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou.cpp.o
-.PHONY : Other/mou.cpp.o
-
-Other/mou.i: Other/mou.cpp.i
-
-.PHONY : Other/mou.i
-
-# target to preprocess a source file
-Other/mou.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou.cpp.i
-.PHONY : Other/mou.cpp.i
-
-Other/mou.s: Other/mou.cpp.s
-
-.PHONY : Other/mou.s
-
-# target to generate assembly for a file
-Other/mou.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou.cpp.s
-.PHONY : Other/mou.cpp.s
-
-Other/mou2.o: Other/mou2.cpp.o
-
-.PHONY : Other/mou2.o
+.PHONY : Other/mou/mou.o
 
 # target to build an object file
-Other/mou2.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2.cpp.o
-.PHONY : Other/mou2.cpp.o
+Other/mou/mou.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou/mou.cpp.o
+.PHONY : Other/mou/mou.cpp.o
 
-Other/mou2.i: Other/mou2.cpp.i
+Other/mou/mou.i: Other/mou/mou.cpp.i
 
-.PHONY : Other/mou2.i
+.PHONY : Other/mou/mou.i
 
 # target to preprocess a source file
-Other/mou2.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2.cpp.i
-.PHONY : Other/mou2.cpp.i
+Other/mou/mou.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou/mou.cpp.i
+.PHONY : Other/mou/mou.cpp.i
 
-Other/mou2.s: Other/mou2.cpp.s
+Other/mou/mou.s: Other/mou/mou.cpp.s
 
-.PHONY : Other/mou2.s
+.PHONY : Other/mou/mou.s
 
 # target to generate assembly for a file
-Other/mou2.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2.cpp.s
-.PHONY : Other/mou2.cpp.s
+Other/mou/mou.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou/mou.cpp.s
+.PHONY : Other/mou/mou.cpp.s
 
-gold/OPEN11/mowlawn.o: gold/OPEN11/mowlawn.cpp.o
+Other/mou2/mou2.o: Other/mou2/mou2.cpp.o
 
-.PHONY : gold/OPEN11/mowlawn.o
+.PHONY : Other/mou2/mou2.o
 
 # target to build an object file
-gold/OPEN11/mowlawn.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o
-.PHONY : gold/OPEN11/mowlawn.cpp.o
+Other/mou2/mou2.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o
+.PHONY : Other/mou2/mou2.cpp.o
 
-gold/OPEN11/mowlawn.i: gold/OPEN11/mowlawn.cpp.i
+Other/mou2/mou2.i: Other/mou2/mou2.cpp.i
 
-.PHONY : gold/OPEN11/mowlawn.i
+.PHONY : Other/mou2/mou2.i
 
 # target to preprocess a source file
-gold/OPEN11/mowlawn.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.i
-.PHONY : gold/OPEN11/mowlawn.cpp.i
+Other/mou2/mou2.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.i
+.PHONY : Other/mou2/mou2.cpp.i
 
-gold/OPEN11/mowlawn.s: gold/OPEN11/mowlawn.cpp.s
+Other/mou2/mou2.s: Other/mou2/mou2.cpp.s
 
-.PHONY : gold/OPEN11/mowlawn.s
+.PHONY : Other/mou2/mou2.s
 
 # target to generate assembly for a file
-gold/OPEN11/mowlawn.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.s
-.PHONY : gold/OPEN11/mowlawn.cpp.s
+Other/mou2/mou2.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.s
+.PHONY : Other/mou2/mou2.cpp.s
 
-gold/feb08/hotel.o: gold/feb08/hotel.cpp.o
+gold/OPEN11/mowlawn/mowlawn.o: gold/OPEN11/mowlawn/mowlawn.cpp.o
 
-.PHONY : gold/feb08/hotel.o
+.PHONY : gold/OPEN11/mowlawn/mowlawn.o
 
 # target to build an object file
-gold/feb08/hotel.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o
-.PHONY : gold/feb08/hotel.cpp.o
+gold/OPEN11/mowlawn/mowlawn.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o
+.PHONY : gold/OPEN11/mowlawn/mowlawn.cpp.o
 
-gold/feb08/hotel.i: gold/feb08/hotel.cpp.i
+gold/OPEN11/mowlawn/mowlawn.i: gold/OPEN11/mowlawn/mowlawn.cpp.i
 
-.PHONY : gold/feb08/hotel.i
+.PHONY : gold/OPEN11/mowlawn/mowlawn.i
 
 # target to preprocess a source file
-gold/feb08/hotel.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.i
-.PHONY : gold/feb08/hotel.cpp.i
+gold/OPEN11/mowlawn/mowlawn.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.i
+.PHONY : gold/OPEN11/mowlawn/mowlawn.cpp.i
 
-gold/feb08/hotel.s: gold/feb08/hotel.cpp.s
+gold/OPEN11/mowlawn/mowlawn.s: gold/OPEN11/mowlawn/mowlawn.cpp.s
 
-.PHONY : gold/feb08/hotel.s
+.PHONY : gold/OPEN11/mowlawn/mowlawn.s
 
 # target to generate assembly for a file
-gold/feb08/hotel.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.s
-.PHONY : gold/feb08/hotel.cpp.s
+gold/OPEN11/mowlawn/mowlawn.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.s
+.PHONY : gold/OPEN11/mowlawn/mowlawn.cpp.s
 
-gold/jan13/seating.o: gold/jan13/seating.cpp.o
+gold/feb08/hotel/hotel.o: gold/feb08/hotel/hotel.cpp.o
 
-.PHONY : gold/jan13/seating.o
+.PHONY : gold/feb08/hotel/hotel.o
 
 # target to build an object file
-gold/jan13/seating.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o
-.PHONY : gold/jan13/seating.cpp.o
+gold/feb08/hotel/hotel.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o
+.PHONY : gold/feb08/hotel/hotel.cpp.o
 
-gold/jan13/seating.i: gold/jan13/seating.cpp.i
+gold/feb08/hotel/hotel.i: gold/feb08/hotel/hotel.cpp.i
 
-.PHONY : gold/jan13/seating.i
+.PHONY : gold/feb08/hotel/hotel.i
 
 # target to preprocess a source file
-gold/jan13/seating.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating.cpp.i
-.PHONY : gold/jan13/seating.cpp.i
+gold/feb08/hotel/hotel.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.i
+.PHONY : gold/feb08/hotel/hotel.cpp.i
 
-gold/jan13/seating.s: gold/jan13/seating.cpp.s
+gold/feb08/hotel/hotel.s: gold/feb08/hotel/hotel.cpp.s
 
-.PHONY : gold/jan13/seating.s
+.PHONY : gold/feb08/hotel/hotel.s
 
 # target to generate assembly for a file
-gold/jan13/seating.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating.cpp.s
-.PHONY : gold/jan13/seating.cpp.s
+gold/feb08/hotel/hotel.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.s
+.PHONY : gold/feb08/hotel/hotel.cpp.s
 
-silver/nov09/xoinc.o: silver/nov09/xoinc.cpp.o
+gold/jan13/seating/seating.o: gold/jan13/seating/seating.cpp.o
 
-.PHONY : silver/nov09/xoinc.o
+.PHONY : gold/jan13/seating/seating.o
 
 # target to build an object file
-silver/nov09/xoinc.cpp.o:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o
-.PHONY : silver/nov09/xoinc.cpp.o
+gold/jan13/seating/seating.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o
+.PHONY : gold/jan13/seating/seating.cpp.o
 
-silver/nov09/xoinc.i: silver/nov09/xoinc.cpp.i
+gold/jan13/seating/seating.i: gold/jan13/seating/seating.cpp.i
 
-.PHONY : silver/nov09/xoinc.i
+.PHONY : gold/jan13/seating/seating.i
 
 # target to preprocess a source file
-silver/nov09/xoinc.cpp.i:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.i
-.PHONY : silver/nov09/xoinc.cpp.i
+gold/jan13/seating/seating.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.i
+.PHONY : gold/jan13/seating/seating.cpp.i
 
-silver/nov09/xoinc.s: silver/nov09/xoinc.cpp.s
+gold/jan13/seating/seating.s: gold/jan13/seating/seating.cpp.s
 
-.PHONY : silver/nov09/xoinc.s
+.PHONY : gold/jan13/seating/seating.s
 
 # target to generate assembly for a file
-silver/nov09/xoinc.cpp.s:
-	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.s
-.PHONY : silver/nov09/xoinc.cpp.s
+gold/jan13/seating/seating.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.s
+.PHONY : gold/jan13/seating/seating.cpp.s
+
+silver/nov09/xoinc/xoinc.o: silver/nov09/xoinc/xoinc.cpp.o
+
+.PHONY : silver/nov09/xoinc/xoinc.o
+
+# target to build an object file
+silver/nov09/xoinc/xoinc.cpp.o:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o
+.PHONY : silver/nov09/xoinc/xoinc.cpp.o
+
+silver/nov09/xoinc/xoinc.i: silver/nov09/xoinc/xoinc.cpp.i
+
+.PHONY : silver/nov09/xoinc/xoinc.i
+
+# target to preprocess a source file
+silver/nov09/xoinc/xoinc.cpp.i:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.i
+.PHONY : silver/nov09/xoinc/xoinc.cpp.i
+
+silver/nov09/xoinc/xoinc.s: silver/nov09/xoinc/xoinc.cpp.s
+
+.PHONY : silver/nov09/xoinc/xoinc.s
+
+# target to generate assembly for a file
+silver/nov09/xoinc/xoinc.cpp.s:
+	$(MAKE) -f CMakeFiles/USACO.dir/build.make CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.s
+.PHONY : silver/nov09/xoinc/xoinc.cpp.s
 
 # Help Target
 help:
@@ -294,24 +294,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... USACO"
-	@echo "... Other/mou.o"
-	@echo "... Other/mou.i"
-	@echo "... Other/mou.s"
-	@echo "... Other/mou2.o"
-	@echo "... Other/mou2.i"
-	@echo "... Other/mou2.s"
-	@echo "... gold/OPEN11/mowlawn.o"
-	@echo "... gold/OPEN11/mowlawn.i"
-	@echo "... gold/OPEN11/mowlawn.s"
-	@echo "... gold/feb08/hotel.o"
-	@echo "... gold/feb08/hotel.i"
-	@echo "... gold/feb08/hotel.s"
-	@echo "... gold/jan13/seating.o"
-	@echo "... gold/jan13/seating.i"
-	@echo "... gold/jan13/seating.s"
-	@echo "... silver/nov09/xoinc.o"
-	@echo "... silver/nov09/xoinc.i"
-	@echo "... silver/nov09/xoinc.s"
+	@echo "... Other/mou/mou.o"
+	@echo "... Other/mou/mou.i"
+	@echo "... Other/mou/mou.s"
+	@echo "... Other/mou2/mou2.o"
+	@echo "... Other/mou2/mou2.i"
+	@echo "... Other/mou2/mou2.s"
+	@echo "... gold/OPEN11/mowlawn/mowlawn.o"
+	@echo "... gold/OPEN11/mowlawn/mowlawn.i"
+	@echo "... gold/OPEN11/mowlawn/mowlawn.s"
+	@echo "... gold/feb08/hotel/hotel.o"
+	@echo "... gold/feb08/hotel/hotel.i"
+	@echo "... gold/feb08/hotel/hotel.s"
+	@echo "... gold/jan13/seating/seating.o"
+	@echo "... gold/jan13/seating/seating.i"
+	@echo "... gold/jan13/seating/seating.s"
+	@echo "... silver/nov09/xoinc/xoinc.o"
+	@echo "... silver/nov09/xoinc/xoinc.i"
+	@echo "... silver/nov09/xoinc/xoinc.s"
 .PHONY : help
 
 

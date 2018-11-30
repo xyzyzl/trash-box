@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o"
-  "CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o"
-  "CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o"
-  "CMakeFiles/USACO.dir/Other/mou.cpp.o"
-  "CMakeFiles/USACO.dir/Other/mou2.cpp.o"
-  "CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o"
+  "CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o"
+  "CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o"
+  "CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o"
+  "CMakeFiles/USACO.dir/Other/mou/mou.cpp.o"
+  "CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o"
+  "CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o"
   "USACO.pdb"
   "USACO"
 )

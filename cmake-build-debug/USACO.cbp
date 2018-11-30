@@ -84,22 +84,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/xyzyzl/Documents/USACO/Other/mou.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/Other/mou/mou.cpp">
 			<Option target="USACO"/>
 		</Unit>
-		<Unit filename="/home/xyzyzl/Documents/USACO/Other/mou2.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/Other/mou2/mou2.cpp">
 			<Option target="USACO"/>
 		</Unit>
-		<Unit filename="/home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn/mowlawn.cpp">
 			<Option target="USACO"/>
 		</Unit>
-		<Unit filename="/home/xyzyzl/Documents/USACO/gold/feb08/hotel.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/gold/feb08/hotel/hotel.cpp">
 			<Option target="USACO"/>
 		</Unit>
-		<Unit filename="/home/xyzyzl/Documents/USACO/gold/jan13/seating.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/gold/jan13/seating/seating.cpp">
 			<Option target="USACO"/>
 		</Unit>
-		<Unit filename="/home/xyzyzl/Documents/USACO/silver/nov09/xoinc.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/silver/nov09/xoinc/xoinc.cpp">
 			<Option target="USACO"/>
 		</Unit>
 		<Unit filename="/home/xyzyzl/Documents/USACO/CMakeLists.txt">

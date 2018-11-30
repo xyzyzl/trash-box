@@ -57,102 +57,102 @@ include CMakeFiles/USACO.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/USACO.dir/flags.make
 
-CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o: ../gold/feb08/hotel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o -c /home/xyzyzl/Documents/USACO/gold/feb08/hotel.cpp
+CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o: ../gold/feb08/hotel/hotel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o -c /home/xyzyzl/Documents/USACO/gold/feb08/hotel/hotel.cpp
 
-CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/feb08/hotel.cpp > CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.i
+CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/feb08/hotel/hotel.cpp > CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.i
 
-CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/feb08/hotel.cpp -o CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.s
+CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/feb08/hotel/hotel.cpp -o CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.s
 
-CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o: ../gold/jan13/seating.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o -c /home/xyzyzl/Documents/USACO/gold/jan13/seating.cpp
+CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o: ../gold/jan13/seating/seating.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o -c /home/xyzyzl/Documents/USACO/gold/jan13/seating/seating.cpp
 
-CMakeFiles/USACO.dir/gold/jan13/seating.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/jan13/seating.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/jan13/seating.cpp > CMakeFiles/USACO.dir/gold/jan13/seating.cpp.i
+CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/jan13/seating/seating.cpp > CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.i
 
-CMakeFiles/USACO.dir/gold/jan13/seating.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/jan13/seating.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/jan13/seating.cpp -o CMakeFiles/USACO.dir/gold/jan13/seating.cpp.s
+CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/jan13/seating/seating.cpp -o CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.s
 
-CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o: ../gold/OPEN11/mowlawn.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o -c /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn.cpp
+CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o: ../gold/OPEN11/mowlawn/mowlawn.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o -c /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn/mowlawn.cpp
 
-CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn.cpp > CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.i
+CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn/mowlawn.cpp > CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.i
 
-CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn.cpp -o CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.s
+CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/OPEN11/mowlawn/mowlawn.cpp -o CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.s
 
-CMakeFiles/USACO.dir/Other/mou.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/Other/mou.cpp.o: ../Other/mou.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/USACO.dir/Other/mou.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/Other/mou.cpp.o -c /home/xyzyzl/Documents/USACO/Other/mou.cpp
+CMakeFiles/USACO.dir/Other/mou/mou.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/Other/mou/mou.cpp.o: ../Other/mou/mou.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/USACO.dir/Other/mou/mou.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/Other/mou/mou.cpp.o -c /home/xyzyzl/Documents/USACO/Other/mou/mou.cpp
 
-CMakeFiles/USACO.dir/Other/mou.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/Other/mou.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/Other/mou.cpp > CMakeFiles/USACO.dir/Other/mou.cpp.i
+CMakeFiles/USACO.dir/Other/mou/mou.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/Other/mou/mou.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/Other/mou/mou.cpp > CMakeFiles/USACO.dir/Other/mou/mou.cpp.i
 
-CMakeFiles/USACO.dir/Other/mou.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/Other/mou.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/Other/mou.cpp -o CMakeFiles/USACO.dir/Other/mou.cpp.s
+CMakeFiles/USACO.dir/Other/mou/mou.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/Other/mou/mou.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/Other/mou/mou.cpp -o CMakeFiles/USACO.dir/Other/mou/mou.cpp.s
 
-CMakeFiles/USACO.dir/Other/mou2.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/Other/mou2.cpp.o: ../Other/mou2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/USACO.dir/Other/mou2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/Other/mou2.cpp.o -c /home/xyzyzl/Documents/USACO/Other/mou2.cpp
+CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o: ../Other/mou2/mou2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o -c /home/xyzyzl/Documents/USACO/Other/mou2/mou2.cpp
 
-CMakeFiles/USACO.dir/Other/mou2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/Other/mou2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/Other/mou2.cpp > CMakeFiles/USACO.dir/Other/mou2.cpp.i
+CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/Other/mou2/mou2.cpp > CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.i
 
-CMakeFiles/USACO.dir/Other/mou2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/Other/mou2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/Other/mou2.cpp -o CMakeFiles/USACO.dir/Other/mou2.cpp.s
+CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/Other/mou2/mou2.cpp -o CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.s
 
-CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o: CMakeFiles/USACO.dir/flags.make
-CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o: ../silver/nov09/xoinc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o -c /home/xyzyzl/Documents/USACO/silver/nov09/xoinc.cpp
+CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o: CMakeFiles/USACO.dir/flags.make
+CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o: ../silver/nov09/xoinc/xoinc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o -c /home/xyzyzl/Documents/USACO/silver/nov09/xoinc/xoinc.cpp
 
-CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/silver/nov09/xoinc.cpp > CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.i
+CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/silver/nov09/xoinc/xoinc.cpp > CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.i
 
-CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/silver/nov09/xoinc.cpp -o CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.s
+CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/silver/nov09/xoinc/xoinc.cpp -o CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.s
 
 # Object files for target USACO
 USACO_OBJECTS = \
-"CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o" \
-"CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o" \
-"CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o" \
-"CMakeFiles/USACO.dir/Other/mou.cpp.o" \
-"CMakeFiles/USACO.dir/Other/mou2.cpp.o" \
-"CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o"
+"CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o" \
+"CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o" \
+"CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o" \
+"CMakeFiles/USACO.dir/Other/mou/mou.cpp.o" \
+"CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o" \
+"CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o"
 
 # External object files for target USACO
 USACO_EXTERNAL_OBJECTS =
 
-USACO: CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o
-USACO: CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o
-USACO: CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o
-USACO: CMakeFiles/USACO.dir/Other/mou.cpp.o
-USACO: CMakeFiles/USACO.dir/Other/mou2.cpp.o
-USACO: CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o
+USACO: CMakeFiles/USACO.dir/gold/feb08/hotel/hotel.cpp.o
+USACO: CMakeFiles/USACO.dir/gold/jan13/seating/seating.cpp.o
+USACO: CMakeFiles/USACO.dir/gold/OPEN11/mowlawn/mowlawn.cpp.o
+USACO: CMakeFiles/USACO.dir/Other/mou/mou.cpp.o
+USACO: CMakeFiles/USACO.dir/Other/mou2/mou2.cpp.o
+USACO: CMakeFiles/USACO.dir/silver/nov09/xoinc/xoinc.cpp.o
 USACO: CMakeFiles/USACO.dir/build.make
 USACO: CMakeFiles/USACO.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xyzyzl/Documents/USACO/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable USACO"
