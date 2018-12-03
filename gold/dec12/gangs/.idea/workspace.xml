@@ -12,23 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5de53833-b313-4205-a78a-ef0479ea9baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../dec16/checklist/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../dec16/moocast/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mar10/balloc/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Other/mou3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/mou3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Other/mou3/cmake-build-debug/CMakeFiles/mou3.dir/mou.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/mou3/cmake-build-debug/CMakeFiles/mou3.dir/mou.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Other/mou3/cmake-build-debug/mou3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/mou3/cmake-build-debug/mou3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Other/mou3/mou.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Other/mou3/mou.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/piepie.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../dec2017/piepie/cmake-build-debug/piepie.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="67" column="30" selection-end-line="88" selection-end-column="1" />
+            <state relative-caret-position="514">
+              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -113,23 +97,22 @@
       <option name="presentableId" value="Default" />
       <updated>1543799681406</updated>
       <workItem from="1543799683095" duration="3665000" />
-      <workItem from="1543806112515" duration="246000" />
+      <workItem from="1543806112515" duration="1297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3911000" />
+    <option name="totallyTimeSpent" value="4962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -155,8 +138,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="67" column="30" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="514">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
         </state>
       </provider>
     </entry>

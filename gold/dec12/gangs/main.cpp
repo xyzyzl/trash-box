@@ -8,11 +8,7 @@ int N, M;
 void walk(int& gang, int& field, int cgang)
 {
 	if(field == 0)
-	{
 		gang = cgang;
-		field++;
-		return;
-	}
 	if(gang == cgang)
 		field++;
 	else
@@ -21,14 +17,13 @@ void walk(int& gang, int& field, int cgang)
 int func(int gang, int field, vector<int> sz)
 {
 	sort(sz.begin()+1, sz.end());
-	reverse(sz.begin()+1, sz.end());
-	while(sz[1])
+	while(sz.back())
 	{
-		for(int j = 1; j < M; j++)
+		for(int j = sz.size()-1; j > 0; j--)
 		{
 			walk(gang, field, j);
 			sz[j]--;
-			if(sz[j+1] <= sz[j])
+			if(sz[j-1] <= sz[j])
 				break;
 		}
 	}
@@ -43,6 +38,8 @@ int func(int gang, int field, vector<int> sz)
 
 int main()
 {
+	freopen("gangs.in", "r", stdin);
+	freopen("gangs.out", "w", stdout);
 	cin >> N >> M;
 	vector<int> sz(M);
 	fill(sz.begin(), sz.end(), 0);
@@ -52,7 +49,8 @@ int main()
 	}
 
 	// gang #, # on field, can you loop at all
-	int gang = 0, field = 0, can = func(gang, field, sz);
+	int gang = 0, field = 0;
+	int can = func(gang, field, sz);
 	if(can)
 	{
 		cout << "YES\n" << can << '\n';
