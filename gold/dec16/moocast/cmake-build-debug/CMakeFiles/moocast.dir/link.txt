@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/moocast.dir/main.cpp.o  -o moocast 

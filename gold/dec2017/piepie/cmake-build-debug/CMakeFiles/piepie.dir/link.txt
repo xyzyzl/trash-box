@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/piepie.dir/main.cpp.o  -o piepie 
+/usr/bin/c++  -g   CMakeFiles/piepie.dir/piepie.cpp.o  -o piepie 

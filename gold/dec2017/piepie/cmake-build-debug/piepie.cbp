@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/main.cpp">
+		<Unit filename="/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/piepie.cpp">
 			<Option target="piepie"/>
 		</Unit>
 		<Unit filename="/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/CMakeLists.txt">

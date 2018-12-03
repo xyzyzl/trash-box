@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/piepie.dir/main.cpp.o"
+  "CMakeFiles/piepie.dir/piepie.cpp.o"
   "piepie.pdb"
   "piepie"
 )

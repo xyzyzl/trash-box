@@ -1,0 +1,3 @@
+/home/xyzyzl/Documents/USACO/gold/dec12/gangs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xyzyzl/Documents/USACO/gold/dec12/gangs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xyzyzl/Documents/USACO/gold/dec12/gangs/cmake-build-debug/CMakeFiles/gangs.dir

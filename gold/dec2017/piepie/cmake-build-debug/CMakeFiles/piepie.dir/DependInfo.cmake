@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/main.cpp" "/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/main.cpp.o"
+  "/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/piepie.cpp" "/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/piepie.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

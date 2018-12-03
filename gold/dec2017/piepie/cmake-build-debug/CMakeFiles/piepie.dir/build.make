@@ -57,27 +57,27 @@ include CMakeFiles/piepie.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/piepie.dir/flags.make
 
-CMakeFiles/piepie.dir/main.cpp.o: CMakeFiles/piepie.dir/flags.make
-CMakeFiles/piepie.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/piepie.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/piepie.dir/main.cpp.o -c /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/main.cpp
+CMakeFiles/piepie.dir/piepie.cpp.o: CMakeFiles/piepie.dir/flags.make
+CMakeFiles/piepie.dir/piepie.cpp.o: ../piepie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/piepie.dir/piepie.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/piepie.dir/piepie.cpp.o -c /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/piepie.cpp
 
-CMakeFiles/piepie.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/piepie.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/main.cpp > CMakeFiles/piepie.dir/main.cpp.i
+CMakeFiles/piepie.dir/piepie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/piepie.dir/piepie.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/piepie.cpp > CMakeFiles/piepie.dir/piepie.cpp.i
 
-CMakeFiles/piepie.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/piepie.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/main.cpp -o CMakeFiles/piepie.dir/main.cpp.s
+CMakeFiles/piepie.dir/piepie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/piepie.dir/piepie.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xyzyzl/Documents/USACO/gold/dec2017/piepie/piepie.cpp -o CMakeFiles/piepie.dir/piepie.cpp.s
 
 # Object files for target piepie
 piepie_OBJECTS = \
-"CMakeFiles/piepie.dir/main.cpp.o"
+"CMakeFiles/piepie.dir/piepie.cpp.o"
 
 # External object files for target piepie
 piepie_EXTERNAL_OBJECTS =
 
-piepie: CMakeFiles/piepie.dir/main.cpp.o
+piepie: CMakeFiles/piepie.dir/piepie.cpp.o
 piepie: CMakeFiles/piepie.dir/build.make
 piepie: CMakeFiles/piepie.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xyzyzl/Documents/USACO/gold/dec2017/piepie/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable piepie"

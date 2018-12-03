@@ -12,31 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd290303-2467-4ecc-bb6a-81be9edafbbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mou/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mou/mou.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mou/mou.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mou2/mou2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mou2/mou2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Progress/6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/Other/mou.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/Other/mou2.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/OPEN11/mowlawn.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/feb08/hotel.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/gold/jan13/seating.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/USACO.dir/silver/nov09/xoinc.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/USACO.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/USACO.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gold/feb08/hotel/hotel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/feb08/hotel/hotel.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gold/jan13/seating/seating.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/jan13/seating/seating.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gold/mar07/lineup2/lineup2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/mar07/lineup2/lineup2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mou3.dir/mou.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mou3.dir/mou.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/mou3" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/mou3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mou.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mou.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/CMakeFiles/piepie.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/piepie.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../gold/dec2017/piepie/cmake-build-debug/piepie.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mou.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+            <state relative-caret-position="246">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,7 +91,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,6 +98,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gold/jan13/seating" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,22 +132,24 @@
       <updated>1543540532246</updated>
       <workItem from="1543540533947" duration="559000" />
       <workItem from="1543549670565" duration="2682000" />
+      <workItem from="1543619857942" duration="12170000" />
+      <workItem from="1543730773478" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3241000" />
+    <option name="totallyTimeSpent" value="15597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3790497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -167,6 +159,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -185,8 +178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mou.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+        <state relative-caret-position="246">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
     </entry>

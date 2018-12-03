@@ -123,32 +123,32 @@ piepie/fast:
 	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/build
 .PHONY : piepie/fast
 
-main.o: main.cpp.o
+piepie.o: piepie.cpp.o
 
-.PHONY : main.o
+.PHONY : piepie.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/main.cpp.o
-.PHONY : main.cpp.o
+piepie.cpp.o:
+	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/piepie.cpp.o
+.PHONY : piepie.cpp.o
 
-main.i: main.cpp.i
+piepie.i: piepie.cpp.i
 
-.PHONY : main.i
+.PHONY : piepie.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/main.cpp.i
-.PHONY : main.cpp.i
+piepie.cpp.i:
+	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/piepie.cpp.i
+.PHONY : piepie.cpp.i
 
-main.s: main.cpp.s
+piepie.s: piepie.cpp.s
 
-.PHONY : main.s
+.PHONY : piepie.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/main.cpp.s
-.PHONY : main.cpp.s
+piepie.cpp.s:
+	$(MAKE) -f CMakeFiles/piepie.dir/build.make CMakeFiles/piepie.dir/piepie.cpp.s
+.PHONY : piepie.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... piepie"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... piepie.o"
+	@echo "... piepie.i"
+	@echo "... piepie.s"
 .PHONY : help
 
 

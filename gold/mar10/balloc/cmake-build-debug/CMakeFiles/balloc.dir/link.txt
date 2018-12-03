@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/balloc.dir/main.cpp.o  -o balloc 

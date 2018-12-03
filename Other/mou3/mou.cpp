@@ -1,109 +1,76 @@
 #include <bits/stdc++.h>
 
+#define K M.size()
 #define int long long
 
-struct Node
+using namespace std;
+
+int N;
+set<int> M;
+
+struct instruct
 {
-	int l, r, m, s, lazy;
-	bool on;
-	int MAX, TOT;
-	std::vector<Node> c;
+	int a, b, d;
+	char t;
 
-	Node(int _l, int _r)
+	instruct(int _a, int _b, int _d)
 	{
-		l = _l;
-		r = _r;
-		m = (l + r) / 2;
-		s = r - l + 1;
-		MAX = 0;
-		TOT = 0;
-		lazy = 0;
-		on = 0;
+		t = 'I';
+		a = _a;
+		b = _b;
+		d = _d;
 	}
 
-	void init()
+	instruct(int _d)
 	{
-		if (c.empty() && l < r)
-		{
-			c.push_back(Node(l, m));
-			c.push_back(Node(m + 1, r));
-		}
-		if (on)
-		{
-			if (l < r)
-			{
-				c[0].lazy = c[1].lazy = lazy;
-				c[0].on = c[1].on = on;
-			}
-			TOT = MAX = s * lazy;
-		}
-		lazy = on = 0;
-	}
-
-	int query(int h)
-	{
-		init();
-		if (l == r)
-		{
-			if (MAX > h)
-				return l - 1;
-			else
-				return l;
-		}
-		c[0].init();
-		if (c[0].MAX > h)
-			return c[0].query(h);
-		return c[1].query(h - c[0].TOT);
-	}
-
-	void upd(int a, int b, int D)
-	{
-		init();
-		if (a > b || a > r || b < l)
-			return;
-		if (a <= l && b >= r)
-		{
-			lazy = D;
-			on = 1;
-			init();
-			return;
-		}
-		c[0].upd(a, b, D);
-		c[1].upd(a, b, D);
-		TOT = c[0].TOT + c[1].TOT;
-		MAX = std::max(c[0].MAX, c[0].TOT + c[1].MAX);
+		t = 'Q';
+		d = _d;
 	}
 };
 
-typedef std::pair<int, int> pii;
-#define x first
-#define y second
+vector<instruct> v;
 
-int N;
-std::vector<pii> queries; // sorts the queries so that we can remap
-std::vector<std::pair<int, pii> > deltas;
+struct Node
+{
+	int l, s, v;
+	Node(int _l, int _s, int _v)
+	{
+		l=_l;
+		s=_s;
+		v=_v;
+	}
+};
+
 main()
 {
-	std::ios_base::sync_with_stdio(false);
-	std::cin >> N;
+	cin >> N;
 	char c;
-	Node root = Node(1, N);
 	while (true)
 	{
-		std::cin >> c;
+		cin >> c;
 		if (c == 'E')
 			break;
 		else if (c == 'I')
 		{
-			int a, b, D;
-			std::cin >> a >> b >> D;
-			deltas.push_back(std::make_pair(D, std::make_pair(a, b)));
-			root.upd(a, b, D);
+			int a, b, d;
+			cin >> a >> b >> d;
+			v.push_back(instruct(a, b, d));
+			M.insert(a);
+			M.insert(b);
 		} else
 		{
 			int h;
-			std::cin >> h;
-			std::cout << root.query(h) << '\n';
+			cin >> h;
+			v.push_back(instruct(h));
 		}
+	}
+	// Node nd = Node(0, M.size()-1);
+	for (int i = 0; i < v.size(); i++)
+	{
+		cout << v[i].t << endl;
+		if (v[i].t == 'I')
+			// nd.upd((*M.lower_bound(v[i].a)), *M.lower_bound(v[i].b)-1, v[i].d);
+		else
+		// cout << nd.query(v[i].d) << '\n';
 	}
 }
